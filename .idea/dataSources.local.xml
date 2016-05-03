@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - BaloncestoHipsterMaster@localhost" uuid="f58e5c8d-7ada-4fff-9836-ab316be517f5">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>baloncestohipstermaster.*</schema-pattern>
+      <default-schemas>baloncestohipstermaster.*</default-schemas>
+    </data-source>
+  </component>
+</project>
